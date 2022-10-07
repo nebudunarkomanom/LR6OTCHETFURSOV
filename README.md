@@ -19,3 +19,7 @@ ___
 ___
 История операций (рисунок 12) сокращенная.
 
+____
+После того как это сделали загрузим все на удаленный репозиторий коммандой
+**git remote add origin https://github.com/nebudunarkomanom/LR6FURSOVOTCHET.git**
+**git push -u origin main** и все все добавленно 
